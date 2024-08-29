@@ -57,7 +57,7 @@ body {
 .product-title {
   font-family: "Fraunces", serif;
   font-size: 32px;
-  color:  hsl(228, 12%, 48%);
+  color:black;  
   margin-bottom: 20px;
   line-height: 1;
 }
