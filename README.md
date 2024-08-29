@@ -58,7 +58,7 @@ To see how you can add code snippets, see below:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/samritbasnet)
-- Twitter - [@yourusername](https://www.twitter.com/samritbasnet70)
+- Frontend Mentor - [@SamritBasnet](https://www.frontendmentor.io/profile/samritbasnet)
+- Twitter - [@SamritBasnet70](https://www.twitter.com/samritbasnet70)
 
 ```
